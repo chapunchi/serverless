@@ -1,4 +1,4 @@
-service: mybackend-todo
+service: mybackend
 
 provider:
   name: aws
